@@ -12,3 +12,5 @@ main
 
 Jordan
 5352500310000000
+
+jirdin himi 5352500777
